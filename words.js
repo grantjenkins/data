@@ -1,5 +1,6 @@
 const words = [
-  "a",
   "alpha",
-  "beta"
+  "beta",
+  "delta",
+  "gamma"
 ];
