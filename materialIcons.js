@@ -1,4 +1,4 @@
-const icons = `10k e951
+var icons = `10k e951
 10mp e952
 11mp e953
 123 eb8d
