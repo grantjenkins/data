@@ -1,4 +1,4 @@
-10k e951
+const icons = "10k e951
 10mp e952
 11mp e953
 123 eb8d
@@ -2180,4 +2180,4 @@ youtube_searched_for e8fa
 zoom_in e8ff
 zoom_in_map eb2d
 zoom_out e900
-zoom_out_map e56b
+zoom_out_map e56b"
